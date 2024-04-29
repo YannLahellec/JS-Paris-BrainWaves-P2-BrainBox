@@ -5,7 +5,7 @@ function SearchBar({handleSearch}) {
     
     return (
     <div className="searchBar">
-      <input type="text" id="searchBarInput" placeholder="🔍 Search for Quizz Theme" onChange={handleSearch}/>
+      <input type="text" id="searchBarInput" placeholder="🔍 Search for Quizz Theme" onInput={handleSearch}/>
     </div>
   );
 }
