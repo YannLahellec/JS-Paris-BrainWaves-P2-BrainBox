@@ -21,6 +21,10 @@ Then we generate a score and append a final page of results from the user data.
 - Go back button travels to the topics selection page of the quiz
 - Responsive Design: Ensure the application is optimized for use on different devices, including desktops and smartphones.
 
+# Contributors 
+- Yann Lahellec
+- Maxime Maufront
+
 Used API : https://opentdb.com/api_config.php
 
 ## Setup & Use
